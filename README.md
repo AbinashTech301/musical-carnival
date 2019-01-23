@@ -19,3 +19,13 @@
 * [Lungs 7-data.world-survey](<https://data.world/sta427ceyin/survey-lung-cancer>)
 * [Lungs 8-kaggle-lungs cancer detection](<https://www.kaggle.com/jesyfax/lung-cancer-detection>)
 
+##Diabetes
+* [Diabetes 1 - uci.edu](<https://archive.ics.uci.edu/ml/datasets/diabetes>)
+* [Diabetes 2 - data.world](<https://data.world/datasets/diabetes>)
+* [Diabetes 3 - Indians diabetes](<https://www.kaggle.com/uciml/pima-indians-diabetes-database>)
+* [Diabetes 4 - kaggle with diabetes](<https://www.kaggle.com/saurabh00007/diabetescsv>)
+* [Diabetes 5 - ResearchGate and Diabetes](<https://www.researchgate.net/post/Diabetes_Dataset>)
+* [Diabetes 6 - European has diabetes](<https://www.europeandataportal.eu/data/en/dataset?tags=diabetes>)
+* [Diabetes 7 - Kaggle's diabetes](<https://www.kaggle.com/brandao/diabetes>)
+* [Diabetes 8 - Diabetes of Nepal](<https://www.herdint.com/publications/31>)
+
