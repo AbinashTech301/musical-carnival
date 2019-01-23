@@ -12,9 +12,9 @@
 ##Lungs
 * [Lungs 1-creatis.insa](<https://www.creatis.insa-lyon.fr/rio/popi-model>)
 * [Lungs 2-ncbi.nlm](<https://www.ncbi.nlm.nih.gov/pmc/?term=lungs>)
-* [Lungs 3-ics.uci](<https://archive.ics.uci.edu/ml/datasets/lung+cancer>)
+* [Lungs 3-ics.uci-lungs cancer](<https://archive.ics.uci.edu/ml/datasets/lung+cancer>)
 * [Lungs 4-biogps](<http://biogps.org/dataset/tag/lung%20cancer/>)
-* [Lungs 5-biometry](<https://biometry.nci.nih.gov/cdas/datasets/plco/21/>)
+* [Lungs 5-biometry - gov](<https://biometry.nci.nih.gov/cdas/datasets/plco/21/>)
 * [Lungs 6-data.world-lungs cancer](<https://data.world/cancerdatahp/lung-cancer-data>)
 * [Lungs 7-data.world-survey](<https://data.world/sta427ceyin/survey-lung-cancer>)
 * [Lungs 8-kaggle-lungs cancer detection](<https://www.kaggle.com/jesyfax/lung-cancer-detection>)
@@ -29,3 +29,18 @@
 * [Diabetes 7 - Kaggle's diabetes](<https://www.kaggle.com/brandao/diabetes>)
 * [Diabetes 8 - Diabetes of Nepal](<https://www.herdint.com/publications/31>)
 
+##Diets I
+* [Diet 1 - data.world - world on diet](<https://data.world/datasets/diet>)
+* [Diet 2 - Nutrition - dataworld](<https://data.world/datasets/nutrition>)
+* [Diet 3 - kaggle on diet - eating health module](<https://www.kaggle.com/bls/eating-health-module-dataset>)
+* [Diet 4 - Global Dieting -global nutrition report](<https://globalnutritionreport.org/reports/global-nutrition-report-2018/dataset-and-metadata/>)
+* [Diet 5 - policies in dieting - usda gov data](<https://www.cnpp.usda.gov/data>)
+* [Diet 6 - mit data nutrition - diet and MIT students](<http://datanutrition.media.mit.edu/>)
+* [Diet 7 - WOrld bank](<https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics>)
+
+##Diets II 
+* [Diets 8 - Lists- usda.gov](<https://ndb.nal.usda.gov/ndb/search/list>)
+* [Diets 9 - 53 nutrient values for 5,740 foods ](<http://www.foodstandards.gov.au/science/monitoringnutrients/ausnut/foodnutrient/Pages/default.aspx>)
+* [Diets 10 - Nutrition value of Common foods](<https://www.nutritionvalue.org/>)
+* [Deits 11 - Nutritionix ](<https://www.nutritionix.com/>)
+* [Diets 12 - What's in food](<https://www.nutrition.gov/subject/whats-in-food>)
