@@ -25,7 +25,7 @@
 * [Diabetes 3 - Indians diabetes](<https://www.kaggle.com/uciml/pima-indians-diabetes-database>)
 * [Diabetes 4 - kaggle with diabetes](<https://www.kaggle.com/saurabh00007/diabetescsv>)
 * [Diabetes 5 - ResearchGate and Diabetes](<https://www.researchgate.net/post/Diabetes_Dataset>)
-* [Diabetes 6 - European has diabetes](<https://www.europeandataportal.eu/data/en/dataset?tags=diabetes>)
+* [Diabetes 6 - Europeans + diabetes](<https://www.europeandataportal.eu/data/en/dataset?tags=diabetes>)
 * [Diabetes 7 - Kaggle's diabetes](<https://www.kaggle.com/brandao/diabetes>)
 * [Diabetes 8 - Diabetes of Nepal](<https://www.herdint.com/publications/31>)
 
