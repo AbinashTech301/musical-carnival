@@ -1,5 +1,5 @@
 ## INFORMATIONS REGARDING THE DATASETS
-## Medical
+## General 
 *  [Medical Images Datasets](<https://www.whatiswhateverything.com/p/medical-image-datasets-for-free-download.html>)
 * [cdc gov data](<https://data.cdc.gov/browse>)
 * [Berkely Health Statistics](<http://guides.lib.berkeley.edu/publichealth/healthstatistics/rawdata>)
@@ -44,3 +44,43 @@
 * [Diets 10 - Nutrition value of Common foods](<https://www.nutritionvalue.org/>)
 * [Deits 11 - Nutritionix ](<https://www.nutritionix.com/>)
 * [Diets 12 - What's in food](<https://www.nutrition.gov/subject/whats-in-food>)
+
+## Disease Prediction
+* [Disease 1 - Liver Disease ](<https://www.kaggle.com/c/liver-disease>)
+* [Disease 2 - Disease and Prediction](<https://www.kaggle.com/data/55703>)
+* [Disease 3 - Heart Disease uci.edu](<https://archive.ics.uci.edu/ml/datasets/heart+Disease>)
+* [Disease 4 - GitHUb Medical Imaging Data](<https://github.com/beamandrew/medical-data>)
+* [Disease 5 - Physionet](<https://www.physionet.org/>)
+
+## Disease Outbreak
+* [Outbreak 1 - epidemics ](<https://www.repidemicsconsortium.org/outbreaks/>)
+* [Outbreak 2 - globalhealthgovernance](<http://globalhealthgovernance.org/blog/2017/12/1/how-to-find-data-on-infectious-disease-outbreaks>)
+* [Outbreak 3 - WHO](<https://www.who.int/csr/resources/databases/en/>)
+* [Outbreak 4 -National Outbreak](<https://wwwn.cdc.gov/norsdashboard/>)
+* [Outbreak 5 - Foodborne Outbreak Data.World](<https://data.world/cdc/foodborne-outbreak-database>)
+* [Outbreak 6 - Humanitarian Data Exchange](<https://data.humdata.org/dataset?tags=outbreaks>)
+* [Outbreak 7 - Natinonal Outbreak](<https://healthdata.gov/dataset/national-outbreak-reporting-system>)
+* [Outbreak 8 - Infectious Disease](<https://data.chhs.ca.gov/dataset/infectious-disease-cases-by-county-year-and-sex>)
+* [Outbreak 9 - Infectious data.world](<https://data.world/datasets/infectious-diseases>)
+
+## Agriculture Prediction + visualization and prediction of crop production
+* [Agriculture 1 - Kaggle](<https://www.kaggle.com/tags/agriculture>)
+* [Agriculture 2 - India Agriculture](<https://www.kaggle.com/srinivas1/agricuture-crops-production-in-india>)
+* [Agriculture 3 - India Crop data.world Prodution](<https://data.world/thatzprem/agriculture-india>)
+* [Agriculture 4 - Researchgate ](<https://www.sciencedirect.com/science/article/pii/S235234091830708X>)
+* [Agriculture 5 - knoema](<https://knoema.com/atlas/India/topics/Agriculture/datasets>)
+* [Agriculture 6 - data.gov Ireland](<https://data.gov.ie/dataset/area-yield-and-production-of-crops>)
+* [Agriculture 7 - ICIMOD](<http://rds.icimod.org/Home/DataDetail?metadataId=17200>)
+* [Agriculture 8 - data.OpenNepal](<http://data.opennepal.net/sector/agriculture>)
+* [Agriculture 9 - visualization and prediction of crop](<https://data.oecd.org/agroutput/crop-production.htm>)
+
+## Soil analysis 
+* [Soil Analysis 1 - Ireland](<https://data.gov.ie/dataset/national-soils-database>)
+* [Soil Analysis 2 - msu.edu](<https://lter.kbs.msu.edu/datasets/71>)
+* [Soil Analysis 3 - European Soil ](<https://www.europeandataportal.eu/data/en/dataset/gsi-gemas-european-geochemical-soil-analysis>)
+* [Soil Analysis 4 - Data World](<https://data.world/datasets/soil>)
+* [Soil Analysis 5 - India](<https://data.world/datasets/soil>)
+* [Soil Analysiis 6 -kaggle](<https://www.kaggle.com/c/afsis-soil-properties>)
+* [Soil Analysis 7 - Open Nepal](<http://data.opennepal.net/datasets?order=title&sort=asc&page=6>)
+* [Soil Analysis 8 - Soil Geographic Databases](<https://www.isric.org/explore/soil-geographic-databases>)
+* [Soil Analysis 9 - Soil and Terrain Database Nepal](<https://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=wdc&KeywordPath=Parameters%7CAGRICULTURE%7CSOILS%7CSOIL+COLOR&OrigMetadataNode=GCMD&EntryId=ISRIC_SOTER_Nepal_primary&MetadataView=Full&MetadataType=0&lbnode=mdlb4>)
