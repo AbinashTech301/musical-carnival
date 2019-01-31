@@ -84,3 +84,16 @@
 * [Soil Analysis 7 - Open Nepal](<http://data.opennepal.net/datasets?order=title&sort=asc&page=6>)
 * [Soil Analysis 8 - Soil Geographic Databases](<https://www.isric.org/explore/soil-geographic-databases>)
 * [Soil Analysis 9 - Soil and Terrain Database Nepal](<https://gcmd.gsfc.nasa.gov/KeywordSearch/Metadata.do?Portal=wdc&KeywordPath=Parameters%7CAGRICULTURE%7CSOILS%7CSOIL+COLOR&OrigMetadataNode=GCMD&EntryId=ISRIC_SOTER_Nepal_primary&MetadataView=Full&MetadataType=0&lbnode=mdlb4>)
+
+## Breast Cancer
+* [BC 1 - CSV data-datahub](<https://datahub.io/machine-learning/breast-cancer>)
+* [BC 2 - CSV kaggle](<https://www.kaggle.com/uciml/breast-cancer-wisconsin-data>)
+* [BC 3 - CSV kaggle 2](<https://www.kaggle.com/hdza1991/breast-cancer-wisconsin-data-set>)
+* [BC 4 - CSV - Github - Breast Cancer Occurences](<https://www.kaggle.com/hdza1991/breast-cancer-wisconsin-data-set>)
+* [BC 5 - CSV-Wisconsin - dataworld](<https://data.world/health/breast-cancer-wisconsin>)
+* [BC 6 - CSV - UCI - Dataworld](<https://data.world/uci/breast-cancer>)
+* [BC 7 -Image - Kaggle ](<https://www.kaggle.com/paultimothymooney/breast-histopathology-images/kernels>)
+* [BC 8 - Image - iciar2018-grandchallenge](<https://iciar2018-challenge.grand-challenge.org/>)
+* [BC 9 - Image- Hematoxylin and Eosin - CamelYon17 - Grand Challenge](<https://camelyon17.grand-challenge.org/Data/>)
+* [BC 10 - Image - Mini Mias - Mammograms](<http://peipa.essex.ac.uk/info/mias.html>)
+* 
