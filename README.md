@@ -96,4 +96,3 @@
 * [BC 8 - Image - iciar2018-grandchallenge](<https://iciar2018-challenge.grand-challenge.org/>)
 * [BC 9 - Image- Hematoxylin and Eosin - CamelYon17 - Grand Challenge](<https://camelyon17.grand-challenge.org/Data/>)
 * [BC 10 - Image - Mini Mias - Mammograms](<http://peipa.essex.ac.uk/info/mias.html>)
-* 
